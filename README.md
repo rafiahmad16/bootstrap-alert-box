@@ -1,4 +1,4 @@
-# Rafi Ahmad bootstrap-alert-box JavaScript Document.
+# Bootstrap Alert Box JavaScript Document.
  
  ------------------------------------------------------------------------------------------------------------------------------------
  
